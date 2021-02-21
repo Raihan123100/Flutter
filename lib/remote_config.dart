@@ -20,6 +20,8 @@ class RemoteConfig {
     "LOGIN": "wp-json/api/login",
     "USER_INFO": "wp-json/wc/v3/customers/",
 
+    "DELETE_CART_ITEM": "wp-json/cocart/v1/item",
+
     //https://dev.sebpo.net/hellobox/wp-json/wc/v3/products
   };
 }
